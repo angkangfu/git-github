@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Production server</h1>
+        <h1 className="App-title">After edit</h1>
       </header>
       <p className='App-intro'>
-        testing testing
+        After edit
       </p>
     </div>
   );
